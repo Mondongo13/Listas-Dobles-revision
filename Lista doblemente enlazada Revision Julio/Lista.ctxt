@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Lista
+comment1.params=
+comment1.target=Lista()
+comment2.params=dato
+comment2.target=void\ add(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=dato
+comment4.target=Nodo\ buscar(int)
+comment5.params=buscar\ dato
+comment5.target=void\ despuesDe(int,\ int)
+comment6.params=dato1\ dato2
+comment6.target=void\ intercambio(int,\ int)
+numComments=7
